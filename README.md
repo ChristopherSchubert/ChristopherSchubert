@@ -7,7 +7,6 @@
    \ \_______\ \__\ \__\ \__\\ _\\ \__\____\_\  \
     \|_______|\|__|\|__|\|__|\|__|\|__|\_________\
                                       \|_________|
-
 ```
 <!--
 **ChristopherSchubert/ChristopherSchubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
