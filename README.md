@@ -15,19 +15,19 @@
 <tr><td width=40>:grey_question:</td>
 <td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristopherSchubert&theme=gruvbox&hide=stars&&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-swart-zeta.vercel.app/api?username=ChristopherSchubert&theme=gruvbox&hide=stars&&count_private=true&show_icons=true" />
 </a>
 </td></tr>
 <tr><td width=40>:man_mechanic:</td>
 <td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherSchubert&theme=gruvbox&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-swart-zeta.vercel.app/api/top-langs/?username=ChristopherSchubert&theme=gruvbox&layout=compact&langs_count=8" />
 </a>
 </td></tr>
 <tr><td width=40>:hourglass:</td>
 <td>
 <a href="https://wakatime.com/@ChristopherSchubert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChristopherSchubert&theme=gruvbox&custom_title=Language Use In Last 7 Days" />
+  <img align="center" src="https://github-readme-stats-swart-zeta.vercel.app/api/wakatime?username=ChristopherSchubert&theme=gruvbox&custom_title=Language Use In Last 7 Days" />
 </td></tr>
 </table>
 
