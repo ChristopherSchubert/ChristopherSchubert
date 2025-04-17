@@ -12,12 +12,6 @@
                                        \|_________|
 </pre>
 </td></tr>
-<tr><td width=40>:grey_question:</td>
-<td>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-swart-zeta.vercel.app/api?username=ChristopherSchubert&count_private=true&theme=gruvbox&hide=stars&&count_private=true&show_icons=true" />
-</a>
-</td></tr>
 <tr><td width=40>:man_mechanic:</td>
 <td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
